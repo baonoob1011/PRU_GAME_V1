@@ -14,7 +14,7 @@ UserSettings/
 *.pidb
 *.booproj
 *.svd
-
+.vsconfig
 .vscode/
 .idea/
 
